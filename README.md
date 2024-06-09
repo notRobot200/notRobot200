@@ -14,8 +14,15 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G3iGzVfTeSu40bgwzHta9N7Dbna0NLky/view?usp=sharing](https://drive.google.com/file/d/1G3iGzVfTeSu40bgwzHta9N7Dbna0NLky/view?usp=sharing)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact" alt="notrobot200" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notrobot200&show_icons=true&locale=en" alt="notrobot200" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrobot200&show_icons=true&locale=en&theme=dark" alt="notrobot200" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrobot200&" alt="notrobot200" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrobot200&theme=dark" alt="notrobot200" />
+</p>
+
