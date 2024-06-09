@@ -15,7 +15,7 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" width="300"/>
 </p>
 
 <p>
