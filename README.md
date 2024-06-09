@@ -15,14 +15,9 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200">
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=notrobot200&show_icons=true&locale=en&theme=dark" alt="notrobot200" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notrobot200&theme=dark" alt="notrobot200" />
-</p>
-
