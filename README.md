@@ -19,5 +19,5 @@
 </p>
 
 <p>
-  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notrobot200)](https://github.com/anuraghazra/github-readme-stats)&theme=dark" alt="notrobot200" width="400"/>
+  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notrobot200)](https://github.com/anuraghazra/github-readme-stats)" alt="notrobot200" width="400"/>
 </p>
