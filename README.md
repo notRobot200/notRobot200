@@ -26,7 +26,7 @@ Here are some of the technologies and tools I work with and enjoy:
 ## 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=notrobot200&show_icons=true&count_private=true&theme=dark" alt="notrobot200" width="400"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" width="400"/>
 </p>
 
 ---
