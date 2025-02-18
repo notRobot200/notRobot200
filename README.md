@@ -23,10 +23,10 @@ Here are some of the technologies and tools I work with and enjoy:
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Commit Activity:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notrobot200&show_icons=true&locale=en&layout=compact&theme=dark" alt="notrobot200" width="400"/>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=notrobot200&theme=github&hide_title=true&hide_border=true" alt="notrobot200"/>
 </p>
 
 ---
