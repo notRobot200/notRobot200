@@ -23,14 +23,6 @@ Here are some of the technologies and tools I work with and enjoy:
 
 ---
 
-## 📈 GitHub Commit Activity:
-
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=notrobot200&theme=github&hide_title=true&hide_border=true" alt="notrobot200"/>
-</p>
-
----
-
 
 ## 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/muhammad-adam-majid)
