@@ -23,10 +23,10 @@ Here are some of the technologies and tools I work with and enjoy:
 
 ---
 
-## ⏱️ Coding Activity:
+## 📈 GitHub Commit Activity:
 
 <p>
-  <img align="left" src="https://wakatime.com/share/@username/username.svg" alt="wakatime"/>
+  <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=notrobot200&theme=github&hide_title=true&hide_border=true" alt="notrobot200"/>
 </p>
 
 ---
