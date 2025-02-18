@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muh Adam M
+# Hi 👋, I'm Muhammad Adam Majid
 ### A passionate **AI Engineer** 🚀
 
 As an AI enthusiast, I am always exploring new opportunities to solve real-world problems through **Artificial Intelligence**.
