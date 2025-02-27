@@ -18,10 +18,4 @@ Here are some of the technologies and tools I work with and enjoy:
 
 ---
 
-
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/muhammad-adam-majid)
-
----
-
 Feel free to check out my repositories and collaborate on exciting AI projects! 👨‍💻
