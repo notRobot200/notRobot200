@@ -18,4 +18,4 @@ Here are some of the technologies and tools I work with and enjoy:
 
 ---
 
-Feel free to check out my repositories and collaborate on exciting AI projects! 👨‍💻
+Feel free to check out my repositories and explore exciting AI projects! 👨‍💻
