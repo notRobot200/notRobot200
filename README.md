@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Adam Majid
+# Hi! I'm Muhammad Adam Majid
 ### A passionate Software Engineer
 
 As a tech enthusiast, I enjoy designing and building software solutions that make business workflows more efficient and intelligent.
