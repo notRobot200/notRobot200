@@ -1,21 +1,27 @@
 # Hi 👋, I'm Muhammad Adam Majid
-### A passionate **AI Engineer**
+### A passionate Software Engineer
 
-As an AI enthusiast, I am always exploring new opportunities to solve real-world problems through **Artificial Intelligence**.
+As a tech enthusiast, I enjoy designing and building software solutions that make business workflows more efficient and intelligent.
 
-### Currently working on:
-- Building **AI applications** powered by Large Language Models (LLMs).
+## Currently working on
+- **ReimTrack**: an internal **reimbursement tracking web application** primarily for **staff**, making it easier for them to view their reimbursement records, such as **certification reimbursements**.  
 
-### How to reach me:  
-[Email me](mailto:mhmmdadammajid@gmail.com)
+It also supports different stakeholders:  
+- **HR/Admin**: can download all staff reimbursement data to send to HR.  
+- **Finance/Admin**: simplifies submission to Finance by keeping all engineer reimbursement data organized.
 
-## Languages & Tools:
+## How to reach me
+- 📧 [Email me](mailto:mhmmdadammajid@gmail.com)
+
+## Languages & Tools
 Here are some of the technologies and tools I work with and enjoy:
-- Python, JavaScript, C 
-- **AI**: Hugging Face, LangChain, Chroma, Faiss, Streamlit
-- **Cybersecurity**: Suricata, Splunk, Wireshark
-- Git & GitHub 
+
+- **Languages:** Python, JavaScript, C
+- **Web Development:** Vue.js, Tailwind CSS, Flask, MySQL
+- **AI & ML:** Hugging Face, LangChain, Streamlit, TensorFlow, Scikit-Learn
+- **Cybersecurity:** Suricata, Splunk, Wireshark
+- **Cloud Computing:** Google Cloud Computing, Firebase, Netlify, Vercel
 
 ---
 
-Feel free to check out my repositories and explore exciting AI projects! 👨‍💻
+Feel free to check out my repositories and explore my software projects! 👨‍💻
